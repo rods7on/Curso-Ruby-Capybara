@@ -1,0 +1,3 @@
+teste ruby e capybara
+
+simulação de teste
