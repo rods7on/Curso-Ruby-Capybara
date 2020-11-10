@@ -2,10 +2,10 @@
 
 https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/
 
-Sobre este curso
+Sobre este curso: 
 Suba o navegador e manipule elementos da web de forma simples, rápida e objetiva
 
-Descrição
+Descrição: 
 Se você nunca automatizou testes na sua vida, esse curso é pra você.
 
 Cansado executar testes manuais por repetidas vezes para garantir que seus aplicativos funcionem conforme o esperado? O Capybara é uma ferramenta (framework) escrita em Ruby que facilita a simulação de como um usuário interage com seu aplicativo.
