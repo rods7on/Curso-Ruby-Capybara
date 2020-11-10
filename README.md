@@ -18,12 +18,12 @@ Nível Básico :)
 Subir um navegador automaticamente -
 Automatizar testes de aceitação -
 Conhecer as vantagens do Capybara -
-Criar scripts de testes com Ruby -
+Criar scripts de testes com Ruby 
 # ----- Há algum requisito ou pré-requisito para o curso?
 Basicão do Ruby -
 Sistemas Operacionais -
 Testes Manuais -
-Força de Vontade -
+Força de Vontade 
 # ----- Para quem é este curso:
 Analista de Testes e Qualidade -
 Desenvolvedores
