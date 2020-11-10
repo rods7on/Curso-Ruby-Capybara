@@ -15,15 +15,15 @@ Conheça o Capybara e crie scripts de testes automatizados para qualquer aplica�
 Nível Básico :)
 
 # ----- O que você aprenderá
-Subir um navegador automaticamente
-Automatizar testes de aceitação
-Conhecer as vantagens do Capybara
-Criar scripts de testes com Ruby
+Subir um navegador automaticamente -
+Automatizar testes de aceitação -
+Conhecer as vantagens do Capybara -
+Criar scripts de testes com Ruby -
 # ----- Há algum requisito ou pré-requisito para o curso?
-Basicão do Ruby
-Sistemas Operacionais
-Testes Manuais
-Força de Vontade
+Basicão do Ruby -
+Sistemas Operacionais -
+Testes Manuais -
+Força de Vontade -
 # ----- Para quem é este curso:
-Analista de Testes e Qualidade
+Analista de Testes e Qualidade -
 Desenvolvedores
